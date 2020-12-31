@@ -9,6 +9,5 @@ Welcome to my GitHub profile. My name is Matthew and I am a developer from Ameri
 <br />
 
 ### My tools and favourite languages 
-<a src="https://nodejs.org/en/"><img align="left" alt="NodeJS" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/master/NodeJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://vuejs.org/"><img align="left" alt="Vue" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/master/VueJS-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
-<a src="https://code.visualstudio.com/insiders/"><img align="left" alt="Visual Studio Code" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/master/VSCI-Logo-Color.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://nodejs.org/en/"><img align="left" alt="NodeJS" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/master/NodeJS-Logo.png?raw=true" height="30px" width="30px"/><a/>
+<a src="https://code.visualstudio.com/insiders/"><img align="left" alt="Visual Studio Code" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/master/VSCI-Logo.png?raw=true" height="30px" width="30px"/><a/>
