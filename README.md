@@ -7,10 +7,10 @@ Welcome to my GitHub profile. My name is Matthew and I am a developer from Ameri
 <img align="left" alt="Discord" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/main/Discord-Logo.png?raw=true" height="30px" width="30px"/>[Python Bot Support](https://discord.gg/JK9GgMfb3J)
 
 
-<img align="left" alt="Steam" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/main/Steam-Logo.png?raw=true" height="30px" width="30px"/>[My Steam Profile](https://steamcommunity.com/id/ElevatorsOfAtlanta/)
+<img align="left" alt="Steam" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/main/Steam-Logo.png?raw=true" height="30px" width="30px"/>[My Steam Profile](https://steamcommunity.com/id/SimTheDarkOne/)
 
 
-<img align="left" alt="Twitter" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/main/Twitter-Logo.png?raw=true" height="30px" width="30px"/>[My Twitter](https://twitter.com/ElevatorsOfAtl)
+<img align="left" alt="Twitter" src="https://github.com/ElevatorsOfAtlanta/ElevatorsOfAtlanta/blob/main/Twitter-Logo.png?raw=true" height="30px" width="30px"/>[My Twitter](https://twitter.com/SimTheDarkOne)
 
 <br />
 <br />
