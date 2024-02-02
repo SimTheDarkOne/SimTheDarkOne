@@ -1,22 +1,20 @@
 # Hello!
-
-I'm AdjacentSalem.
-Welcome to my little corner of the internet.
-
-## About Me:
+I'm Klearness.
+Welcome to my corner of the internet!
 
 ```
-I currently Am
-- A developer for North Star Energy
-- Gym Enthusiast  
+---
 ```
 
-## Skills & Intrests:
+## About Me
+I currently am
+- A developer for [North Star Energy](https://www.roblox.com/groups/33700257/orth-Star-Energy#!/about)
+- Aspiring welder and software developer
+- Gym Enthusiast
 
-```
-Programming & Coding, Discord Bots, API's and back end webservers. 
+## Skills & Intrests
+- Low level programming and back-end web development. I've made several Discord Bots, and an API. But can't be open sourced due to private repositiores. I want to explore quantum physics.
 
-Arch Linux, TS & JS Coding
+- Linux, JavaScript & TypeScript, and Lua.
 
-I enjoy working out, watching movies and cooking food.
-```
+- I enjoy hanging out with friends, watching movies and cooking! Cooking is a good hobby that is worth trying.
