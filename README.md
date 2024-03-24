@@ -12,6 +12,10 @@ I currently am
 - Aspiring welder and software developer
 - Gym Enthusiast
 
+```
+---
+```
+
 ## Skills & Intrests
 - Low level programming and back-end web development. I've made several Discord Bots, and an API. But can't be open sourced due to private repositiores. I want to explore quantum physics.
 
