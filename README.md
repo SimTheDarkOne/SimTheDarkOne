@@ -8,7 +8,7 @@ Welcome to my corner of the internet!
 
 ## About Me
 I currently am
-- A developer for [North Star Energy](https://www.roblox.com/groups/33700257/orth-Star-Energy#!/about)
+- A developer for Maverick Science, Gamma Scientific Corporation and Capital Energy.
 - Aspiring welder and software developer
 - Gym Enthusiast
 
@@ -17,4 +17,4 @@ I currently am
 
 - Linux, JavaScript & TypeScript, and Lua.
 
-- I enjoy hanging out with friends, watching movies and cooking! Cooking is a good hobby that is worth trying.
+- I enjoy hanging out with friends, watching movies and cooking.
